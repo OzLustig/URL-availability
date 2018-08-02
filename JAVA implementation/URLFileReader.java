@@ -1,5 +1,3 @@
-// HW4, Oz Lustig, 203184858
-
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
