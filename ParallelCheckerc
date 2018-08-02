@@ -1,7 +1,3 @@
-/*
- * ex3.c - Oz Lustig, ID: 203184858
- */
-
 #define _GNU_SOURCE
 
 #include <curl/curl.h>
