@@ -1,5 +1,3 @@
-// HW4, Oz Lustig, 203184858
-
 import java.util.concurrent.atomic.AtomicInteger;
 
 class CheckResults 
