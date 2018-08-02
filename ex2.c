@@ -1,9 +1,3 @@
-/*
- * ex2.c
- * Name: OZ Lustig
- * ID: 203184858
- *
- */
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
