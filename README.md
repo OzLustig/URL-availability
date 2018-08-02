@@ -1,4 +1,4 @@
-C application that checks the availability of Internet URLs.
+C + JAVA application that checks the availability of Internet URLs.
 The application should receive a file containing a list of URLs, and the number of processes we
 want to use. After a successful run the application prints a numeric summary of the available
 URLs, erroneous URLs and unknown (for URLs it failed to test).
