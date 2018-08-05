@@ -1,5 +1,3 @@
-// HW4, Oz Lustig, 203184858
-
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
